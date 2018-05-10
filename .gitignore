@@ -1,0 +1,11 @@
+#一些应该忽略的文件夹
+.metadata
+.settings
+src/com
+src/server
+bin/
+
+#一些应该忽略的文件
+*.class
+.classpath
+.project
